@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="tr">
+<html>
+    <header>
+
+        <title>daimonthedeveloper</title>
+        <link rel="shortcut icon" href="favicon.ico"/>
+        <link rel="stylesheet" href="mainstyle.css">
+
+
+
+
+
+
+
+
+
+
+
+    </header>
+    <body>
+        <table>
+
+        <nav>
+            <center>
+                <h1 style="">Daimon The Developer</h1>
+                
+                <a href="anasayfa.html">Anasayfa</a>
+                <a href="iletişim.html">İletişim</a>
+                <a href="hakkımda.html">Hakkımda</a>
+                
+                <br>
+                <hr>
+
+
+
+
+
+
+
+            </center>
+
+
+
+        </nav>
+    </table>
+            <h2>En Sevdiğim 3 Dizi</h2>
+            <h3>İçeriği merak ediyorsan fotoğrafların üzerine tıklayarak ilgili dizi veya filmlerin IMDB sayfalarına erişebilirsin.</h3>
+            <ol>
+                <img src="daredevil.jpg" width="400" height="500">
+                <img src="tedlasso.jpg" width="400" height="500">
+                <img src="sherlock.jfif" width="400" height="500">
+
+
+            </ol>
+
+            <h2>En Sevdiğim 3 Film</h2>
+            <h3>İçeriği merak ediyorsan fotoğrafların üzerine tıklayarak ilgili dizi veya filmlerin IMDB sayfalarına erişebilirsin.</h3>
+            <ol>
+                <img src="fightclub.jpg" width="400" height="500">
+                <img src="goodfellas.jpg" width="400" height="500">
+                <img src="airplane.jpg" width="400" height="500">
+
+
+
+
+
+            </ol>
+
+
+
+
+
+
+
+
+        
+
