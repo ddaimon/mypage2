@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="tr">
+<header>
+
+
+
+    <title>daimonthedeveloper</title>
+    <link rel="shortcut icon" href="favicon.ico"/>
+    <link rel="stylesheet" href="about.css">
+
+</header>
+
+<body>
+
+
+
+
+
+    <nav>
+        <center>
+            <h1 style="">Daimon The Developer</h1>
+            <a href="anasayfa.html">Anasayfa</a>
+            <a href="iletişim.html">İletişim</a>
+            <a href="hakkımda.html">Hakkımda</a>
+            <br>
+            <hr>
+
+
+
+
+
+
+
+        </center>
+
+
+
+    </nav>
+
+    <h3><p style="color:white">Ben Fatih Esad Savaşkurt. İstanbul'da yaşıyorum, Yıldız Teknik Üniversitesi Ekonomi 1. sınıf öğrencisiyim.</p></h3>
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
