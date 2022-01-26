@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="tr">
+<html>
+    <header>
+
+        <title>daimonthedeveloper</title>
+        <link rel="shortcut icon" href="favicon.ico"/>
+        <link rel="stylesheet" href="comstyle.css">
+
+        
+
+
+
+
+    </header>
+    <body>
+
+        <nav>
+            <center>
+                <h1 style="">Daimon The Developer</h1>
+                <a href="anasayfa.html">Anasayfa</a>
+                <a href="iletişim.html">İletişim</a>
+                <a href="hakkımda.html">Hakkımda</a>
+                <br>
+                <hr>
+
+
+
+
+
+
+
+            </center>
+
+
+
+        </nav>
+
+        <h2>Benimle iletişime geçmek için:</h2>
+        <ol>
+
+            <a href="https://twitter.com/fatihsavaskurt"><img src="twitter.png" width="100" height="100"></a>
+            <a href="https://www.instagram.com/fatihsavaskurt/"><img src="instagram.png" width="100" height="100"></a>
+            <a href="https://www.linkedin.com/in/fatih-sava%C5%9Fkurt-08a741200/"> <img src="linkedin.png" width="100" height="100"></a>
+
+
+
+
+
+
+
+
+        </ol>
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+    </body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
